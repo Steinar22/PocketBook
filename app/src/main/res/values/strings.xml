@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">PocketBook</string>
+
+    <string-array name="book_names">
+        <item>I Feel Bad About My Neck</item>
+        <item></item>
+        <item>Broken Glass</item>
+        <item>The Girl With the Dragon Tattoo</item>
+        <item>Harry Potter and the Goblet of Fire</item>
+        <item>A Little Life</item>
+        <item>Chronicles: Volume One</item>
+        <item>The Tipping Point</item>
+        <item>Darkmans</item>
+        <item>The Siege</item>
+        <item>Light</item>
+        <item>Visitation</item>
+        <item>Bad Blood</item>
+        <item>Noughts and Crosses</item>
+        <item>Priestdaddy</item>
+        <item>Adults in the Room</item>
+        <item>Coraline</item>
+        <item>The God Delusion</item>
+        <item>The Cost of Living</item>
+        <item>Tell Me How It Ends</item>
+        <item>Harvest</item>
+        <item>Stories of Your Life and Others</item>
+    </string-array>
+
+    <string-array name="author_names">
+        <item></item>
+    </string-array>
+
+    <string-array name="availability">
+        <item></item>
+    </string-array>
 </resources>
