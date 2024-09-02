@@ -3,7 +3,6 @@
 
     <string-array name="book_names">
         <item>I Feel Bad About My Neck</item>
-        <item></item>
         <item>Broken Glass</item>
         <item>The Girl With the Dragon Tattoo</item>
         <item>Harry Potter and the Goblet of Fire</item>
@@ -27,10 +26,49 @@
     </string-array>
 
     <string-array name="author_names">
-        <item></item>
+        <item>Nora Ephron</item>
+        <item>Alain Mabanckou</item>
+        <item>Stieg Larsson</item>
+        <item>JK Rowling</item>
+        <item>Hanya Yanagihara</item>
+        <item>Bob Dylan</item>
+        <item>Malcolm Gladwell</item>
+        <item>Nicola Barker</item>
+        <item>Helen Dunmore</item>
+        <item>M John Harrison</item>
+        <item>Jenny Erpenbeck</item>
+        <item>Lorna Sage</item>
+        <item>Malorie Blackman</item>
+        <item>Patricia Lockwood</item>
+        <item>Yanis Varoufakis</item>
+        <item>Neil Gaiman</item>
+        <item>Richard Dawkins</item>
+        <item>Deborah Levy</item>
+        <item>Valeria Luiselli</item>
+        <item>Jim Crace</item>
+        <item>Ted Chiang</item>
     </string-array>
 
     <string-array name="availability">
-        <item></item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
+        <item>Yes</item>
     </string-array>
 </resources>
