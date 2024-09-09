@@ -30,7 +30,7 @@ public class HomePageActivity extends AppCompatActivity {
 
 
 
-        private void setUpBooksModels() {
+        private void setUpBooksModels() { 
             String[] booksNames = getResources().getStringArray(R.array.book_names) ;
             String[] authorNames = getResources().getStringArray(R.array.author_names);
             String[] availability = getResources().getStringArray(R.array.availability);
