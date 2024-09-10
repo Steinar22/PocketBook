@@ -7,6 +7,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
@@ -28,7 +30,12 @@ public class HomePageActivity extends AppCompatActivity {
             return insets;
         });
 
+        RecyclerView recyclerView = findViewById(R.id.main);
 
+
+        BooksRecyclerViewAdapter adapter = new BooksRecyclerViewAdapter(this, BooksModel);
+        recyclerView.setAdapter(adapter);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         private void setUpBooksModels() { 
             String[] booksNames = getResources().getStringArray(R.array.book_names) ;
